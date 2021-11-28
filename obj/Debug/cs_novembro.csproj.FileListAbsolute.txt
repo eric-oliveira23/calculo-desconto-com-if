@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\cs_novembro\bin\Debug\cs_novembro.exe.config
+C:\Users\Usuario\source\repos\cs_novembro\bin\Debug\cs_novembro.exe
+C:\Users\Usuario\source\repos\cs_novembro\bin\Debug\cs_novembro.pdb
+C:\Users\Usuario\source\repos\cs_novembro\obj\Debug\cs_novembro.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\cs_novembro\obj\Debug\cs_novembro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\cs_novembro\obj\Debug\cs_novembro.exe
+C:\Users\Usuario\source\repos\cs_novembro\obj\Debug\cs_novembro.pdb
